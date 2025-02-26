@@ -8,3 +8,9 @@ This won’t be a full-blown Sims, but a fun, lightweight, and interactive demo 
 Updating by adding Manga charecters that are mainstream favs
 
 🎮 Stay tuned. 🚀
+
+ADDED**
+
+A bed (restores energy 🛏️)
+A fridge (restores hunger 🍔)
+A computer (restores happiness 💻)
